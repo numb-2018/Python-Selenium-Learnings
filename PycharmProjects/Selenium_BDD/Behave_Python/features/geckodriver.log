@@ -1,0 +1,545 @@
+1540467251655	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asingh\\AppData\\Local\\Temp\\rust_mozprofile.VIExYwv6s7oD"
+1540467269480	Marionette	INFO	Listening on port 50487
+1540467270111	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540467270173	Marionette	DEBUG	[6442450945] Frame script loaded
+1540467270207	Marionette	DEBUG	[6442450945] Frame script registered
+1540467271113	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540467274061	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540467275048	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467278308	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467278354	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467280293	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467280297	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467281242	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467285406	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467285830	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467286223	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467286226	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467286398	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467286884	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467286908	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467287535	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467287539	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467288025	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467289283	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467289651	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467290004	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467290007	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467290132	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467290665	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467290705	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467291338	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467291343	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467291846	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467292619	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467293011	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467293402	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467293405	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467293542	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467294080	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467294102	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467294762	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467294763	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467295075	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467295782	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467296149	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467296498	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467296500	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467296644	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467296865	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467296898	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467297583	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467297586	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467297828	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467298538	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467298583	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467298947	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467298948	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467299064	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467299311	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467299393	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467300322	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467300325	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467300558	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467301230	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467301284	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467301640	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467301642	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467301804	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467302227	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467302255	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467302922	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467302924	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467303177	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467303841	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467303882	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467304259	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467304260	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467304420	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467304581	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467304698	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467305373	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467305376	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467305773	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467306659	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467306703	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467306746	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467308172	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467308174	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467311079	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://accounts.google.com/signin/v2/identifier?service=accountsettings&passive=1209600&osid=1&continue=https%3A%2F%2Fmyacco ... myaccount.google.com%2Fintro%2Fdashboard&csig=AF-SEnZoi_BtbXQRVOei%3A1540467302&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1540467311539	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450966
+1540467311541	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450968
+1540467312386	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://accounts.google.com/signin/v2/identifier?service=accountsettings&passive=1209600&osid=1&continue=https%3A%2F%2Fmyacco ... myaccount.google.com%2Fintro%2Fdashboard&csig=AF-SEnZoi_BtbXQRVOei%3A1540467302&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1540467312401	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://accounts.google.com/signin/v2/identifier?service=accountsettings&passive=1209600&osid=1&continue=https%3A%2F%2Fmyacco ... myaccount.google.com%2Fintro%2Fdashboard&csig=AF-SEnZoi_BtbXQRVOei%3A1540467302&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1540467313037	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://accounts.google.com/signin/v2/identifier?service=accountsettings&passive=1209600&osid=1&continue=https%3A%2F%2Fmyacco ... myaccount.google.com%2Fintro%2Fdashboard&csig=AF-SEnZoi_BtbXQRVOei%3A1540467302&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1540467313071	Marionette	DEBUG	[6442450945] Received DOM event unload for https://accounts.google.com/signin/v2/identifier?service=accountsettings&passive=1209600&osid=1&continue=https%3A%2F%2Fmyacco ... myaccount.google.com%2Fintro%2Fdashboard&csig=AF-SEnZoi_BtbXQRVOei%3A1540467302&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1540467313355	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467313395	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450965
+1540467314010	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467314034	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467314405	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467314407	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467314560	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467314711	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467314836	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467315579	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467315583	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467316007	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467316716	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467316731	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467317106	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467317106	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467317728	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467317746	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467317758	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467318414	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467318415	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467320305	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467320671	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467320764	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467321155	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467321159	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467322336	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467322360	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467322376	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467323036	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467323037	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467324381	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467326126	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467326151	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467326517	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467326518	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467326926	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467326948	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467326963	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467327588	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467327590	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467328652	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467329080	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467329121	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467329511	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467329512	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467330011	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467330053	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467330076	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467330762	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467330763	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467331599	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467331981	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467332004	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467332407	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467332409	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467333298	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467333319	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467333336	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467334009	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467334010	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467334840	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467335249	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467335274	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467335630	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467335631	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467336017	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467336035	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467336052	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467336684	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467336685	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467337454	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467337778	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467337825	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467338196	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467338197	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467338637	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467338668	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467338747	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467339373	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467339374	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467340326	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467340760	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467340816	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467341218	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467341219	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467341612	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467341629	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467341643	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467342282	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467342283	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467343099	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467343424	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467343455	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467343825	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467343826	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467344197	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467344223	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467344244	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467345178	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467345178	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467345862	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467346213	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467346235	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467346595	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467346597	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467346982	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467346998	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467347016	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467347640	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467347645	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467348452	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467348832	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467348854	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467349249	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467349251	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467349733	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467349750	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467349769	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467350444	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467350445	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467351219	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467351578	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467351598	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467351961	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467351962	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467352351	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467352367	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467352384	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467353057	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467353058	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467353773	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467354120	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+[Parent 10436, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10436, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/bui[Child 12040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/builld/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346d/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+[Child 12[Child 7831540467788498	Marionette	INFO	Stopped listening on port 50487
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+event DOMContentLoaded for https://www.google.com/
+1540467650844	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467650883	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467652807	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467652811	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467653830	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467658358	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467658700	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467659097	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467659100	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467659233	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467659760	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467659785	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467660444	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467660447	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467660923	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467662137	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467662496	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467662852	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467662855	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467662982	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467663431	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467663452	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467664093	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467664094	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467664810	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467665561	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467665851	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467666259	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467666260	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467666431	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467666910	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467666974	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467667586	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467667588	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467668066	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467668827	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467669218	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467669579	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467669582	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467669697	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467670034	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467670050	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467670692	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467670694	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467670962	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467671688	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467671740	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467672132	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467672133	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467672279	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467672452	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467672561	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467673317	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467673323	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467673676	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467674479	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467674532	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467674955	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467674957	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467675165	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467675631	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467675656	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467676988	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467676990	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467677287	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467678175	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467678234	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467678588	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467678590	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467678731	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467679167	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467679190	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467679830	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467679832	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467680878	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467681495	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467681528	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467681905	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467681907	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467682092	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467682254	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467682322	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467682960	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467682962	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467683421	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467684170	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467684262	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467684638	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467684638	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467684792	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467685077	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467685222	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467686002	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467686005	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467686677	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467687572	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467687605	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467687974	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467687976	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467688195	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467688493	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467688585	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467689339	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467689342	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467689854	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467692672	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467692722	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467693105	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467693106	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467693369	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467693919	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467693950	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467694603	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467694605	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467695205	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467698511	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467698536	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467699112	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467699113	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467699246	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467699747	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467699769	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467700406	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467700408	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467700680	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467701374	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467701446	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467701799	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467701803	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467702065	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467702277	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467702411	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467703101	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467703102	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467703404	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467704017	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467704046	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467704398	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467704401	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467704511	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467704741	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467704762	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467705421	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467705423	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467705712	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467706441	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467706504	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467706924	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467706936	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467708294	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467708676	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467708705	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467710099	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467710103	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467710445	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467711094	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467711158	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467711551	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467711552	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467711679	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467712205	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467712226	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467712980	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467712985	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467714975	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467717004	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467717061	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467717455	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467717457	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467717626	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467717825	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467717909	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467721720	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467721722	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467722161	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467722948	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467722995	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467723355	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467723356	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467723471	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467724372	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467724405	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467725041	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467725053	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467725407	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467726040	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467726084	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467726454	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467726456	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467726693	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467727415	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467727478	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467730649	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467730651	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467730872	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467731524	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467731570	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467731917	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467731918	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467732055	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467732592	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467732619	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467738213	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467738216	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467739127	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467740147	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+1540467740210	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://myaccount.google.com/intro/dashboard
+1540467740603	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://myaccount.google.com/intro/dashboard
+1540467740605	Marionette	DEBUG	[6442450945] Received DOM event unload for https://myaccount.google.com/intro/dashboard
+1540467740785	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.google.com/
+1540467741447	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.google.com/
+1540467741497	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.google.com/
+1540467742129	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.google.com/
+1540467742132	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.google.com/
+1540467742425	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://myaccount.google.com/intro/dashboard
+1540467743238	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://myaccount.google.com/intro/dashboard
+[Child 9484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [Child 12196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil1540467788562	Marionette	INFO	Stopped listening on port 50778
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540467830646	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asingh\\AppData\\Local\\Temp\\rust_mozprofile.5EQDJeEs0rUl"
+1540467837411	Marionette	INFO	Listening on port 51098
+1540467837550	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 1816, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_[Child 8176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1816, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[C1540468874783	Marionette	INFO	Stopped listening on port 51098
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540469045294	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asingh\\AppData\\Local\\Temp\\rust_mozprofile.3ZeGIcX9oybP"
+1540469052702	Marionette	INFO	Listening on port 52561
+1540469052953	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543209280496	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asingh\\AppData\\Local\\Temp\\rust_mozprofile.MV7rAoX0jKBH"
+1543209287679	Marionette	INFO	Listening on port 59441
+1543209287950	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543209493543	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asingh\\AppData\\Local\\Temp\\rust_mozprofile.Zwn7V5s5GQas"
+1543209498834	Marionette	INFO	Listening on port 59493
+1543209499220	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 3256, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[Parent 1543209763427	Marionette	INFO	Listening on port 59532
+1543209763809	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Parent 11540, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11540, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.[cc, line 3461543209898618	Marionette	INFO	Listening on port 59574
+1543209898900	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6384, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543209935451	Marionette	INFO	Stopped listening on port 59574
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 98
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ommon/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543209971440	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asingh\\AppData\\Local\\Temp\\rust_mozprofile.IVIVOhN1IxgW"
+1543209978019	Marionette	INFO	Listening on port 59652
+1543209978206	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 7368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi[Parent 5872, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5872, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Ch1543210145235	Marionette	INFO	Stopped listening on port 59652
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543210246784	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asingh\\AppData\\Local\\Temp\\rust_mozprofile.rNR8PdEr4381"
+1543210253498	Marionette	INFO	Listening on port 59798
+1543210253526	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: http://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.6.3/css/bootstrap-select.min.css, line 6: SyntaxError: expected expression, got '.'
+[Child 9664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9664, Chrome_ChildThread1543210688918	Marionette	INFO	Stopped listening on port 59798
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

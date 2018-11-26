@@ -1,0 +1,3 @@
+[console_scripts]
+install-chromedriver = chromedriver_install.main:run
+
